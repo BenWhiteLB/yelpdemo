@@ -17,3 +17,4 @@ gem 'carrierwave'
 gem "fog"
 gem "fog-aws"
 gem "figaro"
+gem "mini_magick"
